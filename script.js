@@ -1,0 +1,10 @@
+/*
+    Modo Dev
+    Modo Antigo
+    Modo Colorido
+    Modo Moderno
+    Modo Hacker
+    Modo Minimalista
+    Modo Jogo
+    Modo Jornal
+*/
